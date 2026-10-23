@@ -1,1 +1,2 @@
 # TareaSOLID-4
+El principio de responsabilidad unica nos dice que una clase debe tener una unica responsabilidad, es decir un unico motivo principal por el cual podrian necesitar cambiar, basandonos en el codigo podemos decir que este principio se cumple ya que cada clase hace lo sullo y no se tiene que mezclar con otra para ejecutar sus funciones, la clase libro guarda informacion y la clase guardar simplemente guarda los objetos d ela clase libro y los muestra en pantalla de esta manera las funciones estan separadas 
